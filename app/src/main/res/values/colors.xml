@@ -1,0 +1,18 @@
+<resources>
+    <!-- Primary colors -->
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryVariant">#3700B3</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+
+    <!-- Secondary colors -->
+    <color name="colorSecondary">#03DAC5</color>
+    <color name="colorSecondaryVariant">#018786</color>
+    <color name="colorOnSecondary">#000000</color>
+
+    <!-- Background color -->
+    <color name="colorBackground">#FFFFFF</color>
+
+    <!-- Missing colors (added these) -->
+    <color name="colorPrimaryDark">#3700B3</color> <!-- Use same as colorPrimaryVariant -->
+    <color name="colorAccent">#03DAC5</color>     <!-- Use same as colorSecondary -->
+</resources>

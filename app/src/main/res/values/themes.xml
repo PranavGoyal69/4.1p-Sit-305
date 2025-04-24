@@ -1,0 +1,26 @@
+<resources>
+    <!-- Base application theme -->
+    <style name="Theme.TaskManager" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary color used for the action bar, buttons, etc. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryVariant</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+
+        <!-- Secondary color used for accent colors (e.g., floating action button) -->
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorSecondaryVariant">@color/colorSecondaryVariant</item>
+        <item name="colorOnSecondary">@android:color/black</item>
+
+        <!-- Background color for the application -->
+        <item name="android:windowBackground">@color/colorBackground</item>
+
+        <!-- Text color -->
+        <item name="android:textColorPrimary">@android:color/black</item>
+
+        <!-- Customize the appearance of the action bar -->
+        <item name="android:actionBarStyle">@style/Widget.AppCompat.ActionBar</item>
+
+        <!-- Customize other components like Buttons -->
+        <item name="buttonStyle">@style/Widget.MaterialComponents.Button</item>
+    </style>
+</resources>

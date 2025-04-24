@@ -1,0 +1,23 @@
+<resources>
+    <!-- Base application theme -->
+    <style name="Theme.ToDoTest" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary branding color -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryVariant</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+
+        <!-- Secondary branding color -->
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorSecondaryVariant">@color/colorSecondaryVariant</item>
+        <item name="colorOnSecondary">@color/colorOnSecondary</item>
+
+        <!-- Background color -->
+        <item name="android:colorBackground">@color/colorBackground</item>
+
+        <!-- Status bar color -->
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+
+        <!-- Removed colorAccent (deprecated) -->
+        <!-- colorAccent is not used in Material Components; colorSecondary serves a similar purpose -->
+    </style>
+</resources>
